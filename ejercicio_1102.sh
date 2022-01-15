@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+   <<<<<<< HEAD
 #Localización de los datos
 
 cd Documents/GBI6-ExamenParcial1/data
@@ -7,7 +7,7 @@ cd Documents/GBI6-ExamenParcial1/data
 
 #Archivo estructura
 
-head -n 10 Gesquiere2011_data.csv
+hea d -n 10 Gesquiere2011_data.csv
 
 #maleIDGCT 3
 
@@ -40,7 +40,7 @@ echo "maleIDGCT:" $a "muestras:" $muestra
 done
 =======
 #Localización de los datos
-
+ 
 cd Documents/GBI6-ExamenParcial1/data
 
 #1. ¿Cuántas veces  se registraron los niveles de los individuos 3 y 27?
