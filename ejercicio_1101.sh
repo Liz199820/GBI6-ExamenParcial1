@@ -1,5 +1,10 @@
 #Ejercicio 1.10.1
 
+<<<<<<< HEAD
+=======
+#Ejercicio 1.10.1
+
+>>>>>>> 0bc5b32e682a5c232fb53a30d78368c564212033
 #1. Cambie el directorio a CSB/unix/sandbox
 cd Documents/6to/Bioinformática/CSB-master/unix/sandbox/
 
